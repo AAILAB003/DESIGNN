@@ -1,0 +1,518 @@
+0
+tensor(6.3240, grad_fn=<SelectBackward0>) tensor(35.0394)
+tensor(43.2626, grad_fn=<SelectBackward0>) tensor(37.8677)
+tensor(16.1643, grad_fn=<SelectBackward0>) tensor(29.0656)
+tensor(44.3113, grad_fn=<SelectBackward0>) tensor(30.9730)
+0
+tensor(16.2385, grad_fn=<SelectBackward0>) tensor(33.6827)
+tensor(50.7170, grad_fn=<SelectBackward0>) tensor(32.4382)
+tensor(34.7137, grad_fn=<SelectBackward0>) tensor(31.0555)
+tensor(16.2402, grad_fn=<SelectBackward0>) tensor(29.6743)
+0
+tensor(4.3106, grad_fn=<SelectBackward0>) tensor(39.5659)
+tensor(34.5717, grad_fn=<SelectBackward0>) tensor(32.0403)
+tensor(25.1384, grad_fn=<SelectBackward0>) tensor(38.1841)
+tensor(47.7153, grad_fn=<SelectBackward0>) tensor(32.4629)
+0
+tensor(55.2803, grad_fn=<SelectBackward0>) tensor(29.7056)
+tensor(17.9222, grad_fn=<SelectBackward0>) tensor(34.1068)
+tensor(17.9154, grad_fn=<SelectBackward0>) tensor(41.4466)
+tensor(17.9293, grad_fn=<SelectBackward0>) tensor(29.9595)
+0
+tensor(4.3884, grad_fn=<SelectBackward0>) tensor(31.7529)
+tensor(32.4993, grad_fn=<SelectBackward0>) tensor(38.4392)
+tensor(54.7000, grad_fn=<SelectBackward0>) tensor(40.9003)
+tensor(17.0577, grad_fn=<SelectBackward0>) tensor(31.6194)
+0
+tensor(41.3126, grad_fn=<SelectBackward0>) tensor(31.2017)
+tensor(29.7127, grad_fn=<SelectBackward0>) tensor(33.9277)
+tensor(26.9564, grad_fn=<SelectBackward0>) tensor(32.4221)
+tensor(29.6939, grad_fn=<SelectBackward0>) tensor(35.3724)
+0
+tensor(34.7353, grad_fn=<SelectBackward0>) tensor(35.6074)
+tensor(25.6562, grad_fn=<SelectBackward0>) tensor(34.1373)
+tensor(34.7614, grad_fn=<SelectBackward0>) tensor(34.9391)
+tensor(34.7550, grad_fn=<SelectBackward0>) tensor(37.6227)
+0
+tensor(15.5398, grad_fn=<SelectBackward0>) tensor(39.3464)
+tensor(44.8592, grad_fn=<SelectBackward0>) tensor(35.3976)
+tensor(8.0001, grad_fn=<SelectBackward0>) tensor(36.6529)
+tensor(43.3487, grad_fn=<SelectBackward0>) tensor(39.6917)
+0
+tensor(29.6399, grad_fn=<SelectBackward0>) tensor(36.2618)
+tensor(52.0213, grad_fn=<SelectBackward0>) tensor(32.4383)
+tensor(19.3424, grad_fn=<SelectBackward0>) tensor(40.3405)
+tensor(19.3416, grad_fn=<SelectBackward0>) tensor(29.0369)
+0
+tensor(7.3131, grad_fn=<SelectBackward0>) tensor(36.4527)
+tensor(35.2466, grad_fn=<SelectBackward0>) tensor(30.9812)
+tensor(7.3118, grad_fn=<SelectBackward0>) tensor(31.0667)
+tensor(51.4801, grad_fn=<SelectBackward0>) tensor(41.0514)
+0
+tensor(15.8913, grad_fn=<SelectBackward0>) tensor(34.4089)
+tensor(36.8156, grad_fn=<SelectBackward0>) tensor(39.8641)
+tensor(15.8918, grad_fn=<SelectBackward0>) tensor(41.5027)
+tensor(51.1863, grad_fn=<SelectBackward0>) tensor(30.7378)
+0
+tensor(4.4058, grad_fn=<SelectBackward0>) tensor(34.1058)
+tensor(40.5906, grad_fn=<SelectBackward0>) tensor(33.9975)
+tensor(46.8435, grad_fn=<SelectBackward0>) tensor(33.8210)
+tensor(17.7181, grad_fn=<SelectBackward0>) tensor(36.6128)
+0
+tensor(7.2134, grad_fn=<SelectBackward0>) tensor(36.0944)
+tensor(33.9912, grad_fn=<SelectBackward0>) tensor(37.5104)
+tensor(48.9635, grad_fn=<SelectBackward0>) tensor(37.6247)
+tensor(7.1948, grad_fn=<SelectBackward0>) tensor(40.9016)
+0
+tensor(43.8266, grad_fn=<SelectBackward0>) tensor(38.1016)
+tensor(43.3422, grad_fn=<SelectBackward0>) tensor(30.7602)
+tensor(18.6260, grad_fn=<SelectBackward0>) tensor(39.5685)
+tensor(9.0165, grad_fn=<SelectBackward0>) tensor(34.1259)
+0
+tensor(29.4133, grad_fn=<SelectBackward0>) tensor(31.7469)
+tensor(23.5549, grad_fn=<SelectBackward0>) tensor(34.0969)
+tensor(29.4049, grad_fn=<SelectBackward0>) tensor(30.9374)
+tensor(44.4349, grad_fn=<SelectBackward0>) tensor(39.5244)
+0
+tensor(15.6527, grad_fn=<SelectBackward0>) tensor(29.7585)
+tensor(33.4993, grad_fn=<SelectBackward0>) tensor(33.1736)
+tensor(53.4798, grad_fn=<SelectBackward0>) tensor(30.3837)
+tensor(4.5230, grad_fn=<SelectBackward0>) tensor(33.2633)
+0
+tensor(37.8871, grad_fn=<SelectBackward0>) tensor(34.5765)
+tensor(9.7148, grad_fn=<SelectBackward0>) tensor(31.7514)
+tensor(51.8829, grad_fn=<SelectBackward0>) tensor(35.3974)
+tensor(4.5520, grad_fn=<SelectBackward0>) tensor(41.0945)
+0
+tensor(15.8084, grad_fn=<SelectBackward0>) tensor(30.9734)
+tensor(12.0303, grad_fn=<SelectBackward0>) tensor(31.7387)
+tensor(57.2048, grad_fn=<SelectBackward0>) tensor(30.2239)
+tensor(26.7425, grad_fn=<SelectBackward0>) tensor(35.1602)
+0
+tensor(36.2289, grad_fn=<SelectBackward0>) tensor(38.3488)
+tensor(31.1133, grad_fn=<SelectBackward0>) tensor(32.4382)
+tensor(31.1025, grad_fn=<SelectBackward0>) tensor(31.4860)
+tensor(36.2259, grad_fn=<SelectBackward0>) tensor(33.9188)
+0
+tensor(11.0502, grad_fn=<SelectBackward0>) tensor(37.5111)
+tensor(42.4206, grad_fn=<SelectBackward0>) tensor(29.9994)
+tensor(46.7472, grad_fn=<SelectBackward0>) tensor(35.3891)
+tensor(6.7335, grad_fn=<SelectBackward0>) tensor(33.3953)
+0
+tensor(18.7061, grad_fn=<SelectBackward0>) tensor(29.0667)
+tensor(40.8042, grad_fn=<SelectBackward0>) tensor(36.9827)
+tensor(38.2577, grad_fn=<SelectBackward0>) tensor(30.5134)
+tensor(24.5376, grad_fn=<SelectBackward0>) tensor(34.9581)
+0
+tensor(38.0454, grad_fn=<SelectBackward0>) tensor(35.4557)
+tensor(18.6317, grad_fn=<SelectBackward0>) tensor(36.4566)
+tensor(48.4472, grad_fn=<SelectBackward0>) tensor(34.5970)
+tensor(6.6696, grad_fn=<SelectBackward0>) tensor(40.5638)
+0
+tensor(36.9809, grad_fn=<SelectBackward0>) tensor(31.0235)
+tensor(47.0033, grad_fn=<SelectBackward0>) tensor(36.5351)
+tensor(19.3474, grad_fn=<SelectBackward0>) tensor(36.7161)
+tensor(19.7481, grad_fn=<SelectBackward0>) tensor(30.9373)
+0
+tensor(50.8451, grad_fn=<SelectBackward0>) tensor(29.9998)
+tensor(44.6620, grad_fn=<SelectBackward0>) tensor(34.7306)
+tensor(16.0646, grad_fn=<SelectBackward0>) tensor(30.9373)
+tensor(8.0512, grad_fn=<SelectBackward0>) tensor(29.8038)
+0
+tensor(33.6344, grad_fn=<SelectBackward0>) tensor(33.5056)
+tensor(50.2759, grad_fn=<SelectBackward0>) tensor(35.3897)
+tensor(16.2062, grad_fn=<SelectBackward0>) tensor(30.5129)
+tensor(16.1957, grad_fn=<SelectBackward0>) tensor(35.8213)
+0
+tensor(39.8799, grad_fn=<SelectBackward0>) tensor(35.0487)
+tensor(19.4014, grad_fn=<SelectBackward0>) tensor(40.4501)
+tensor(34.1984, grad_fn=<SelectBackward0>) tensor(34.2870)
+tensor(34.1703, grad_fn=<SelectBackward0>) tensor(38.1135)
+0
+tensor(29.5606, grad_fn=<SelectBackward0>) tensor(35.2325)
+tensor(29.5113, grad_fn=<SelectBackward0>) tensor(31.9975)
+tensor(22.2077, grad_fn=<SelectBackward0>) tensor(33.6270)
+tensor(47.8945, grad_fn=<SelectBackward0>) tensor(39.8140)
+0
+tensor(28.8902, grad_fn=<SelectBackward0>) tensor(38.1401)
+tensor(43.2884, grad_fn=<SelectBackward0>) tensor(38.4691)
+tensor(22.9073, grad_fn=<SelectBackward0>) tensor(39.5687)
+tensor(28.8955, grad_fn=<SelectBackward0>) tensor(31.7218)
+0
+tensor(42.7635, grad_fn=<SelectBackward0>) tensor(38.3035)
+tensor(4.8548, grad_fn=<SelectBackward0>) tensor(34.7619)
+tensor(8.8259, grad_fn=<SelectBackward0>) tensor(39.5513)
+tensor(46.1212, grad_fn=<SelectBackward0>) tensor(33.3721)
+0
+tensor(50.2831, grad_fn=<SelectBackward0>) tensor(40.3154)
+tensor(22.5250, grad_fn=<SelectBackward0>) tensor(30.1448)
+tensor(9.7809, grad_fn=<SelectBackward0>) tensor(29.1003)
+tensor(33.6908, grad_fn=<SelectBackward0>) tensor(30.2050)
+0
+tensor(22.4590, grad_fn=<SelectBackward0>) tensor(40.8324)
+tensor(37.1485, grad_fn=<SelectBackward0>) tensor(39.3424)
+tensor(34.2033, grad_fn=<SelectBackward0>) tensor(32.2282)
+tensor(34.2026, grad_fn=<SelectBackward0>) tensor(33.5613)
+0
+tensor(24.6470, grad_fn=<SelectBackward0>) tensor(37.4675)
+tensor(24.6093, grad_fn=<SelectBackward0>) tensor(41.7485)
+tensor(5.2529, grad_fn=<SelectBackward0>) tensor(33.0255)
+tensor(50.7039, grad_fn=<SelectBackward0>) tensor(30.1383)
+0
+tensor(14.3649, grad_fn=<SelectBackward0>) tensor(38.3709)
+tensor(44.6681, grad_fn=<SelectBackward0>) tensor(30.0677)
+tensor(5.1549, grad_fn=<SelectBackward0>) tensor(36.6660)
+tensor(44.7971, grad_fn=<SelectBackward0>) tensor(31.3933)
+0
+tensor(5.5585, grad_fn=<SelectBackward0>) tensor(29.2510)
+tensor(50.0927, grad_fn=<SelectBackward0>) tensor(33.8622)
+tensor(36.0604, grad_fn=<SelectBackward0>) tensor(41.4465)
+tensor(24.3679, grad_fn=<SelectBackward0>) tensor(32.9348)
+0
+tensor(30.6272, grad_fn=<SelectBackward0>) tensor(31.9639)
+tensor(39.8792, grad_fn=<SelectBackward0>) tensor(38.1134)
+tensor(30.6329, grad_fn=<SelectBackward0>) tensor(33.0985)
+tensor(31.2051, grad_fn=<SelectBackward0>) tensor(39.5583)
+0
+tensor(39.7320, grad_fn=<SelectBackward0>) tensor(32.8259)
+tensor(18.7026, grad_fn=<SelectBackward0>) tensor(37.8873)
+tensor(42.1727, grad_fn=<SelectBackward0>) tensor(35.3488)
+tensor(13.3674, grad_fn=<SelectBackward0>) tensor(36.8857)
+0
+tensor(19.5293, grad_fn=<SelectBackward0>) tensor(32.8677)
+tensor(41.9436, grad_fn=<SelectBackward0>) tensor(40.6271)
+tensor(11.4378, grad_fn=<SelectBackward0>) tensor(33.8609)
+tensor(41.7748, grad_fn=<SelectBackward0>) tensor(33.2363)
+0
+tensor(27.7861, grad_fn=<SelectBackward0>) tensor(37.6225)
+tensor(27.8065, grad_fn=<SelectBackward0>) tensor(36.9823)
+tensor(25.9292, grad_fn=<SelectBackward0>) tensor(34.0710)
+tensor(25.8597, grad_fn=<SelectBackward0>) tensor(30.4822)
+0
+tensor(20.5306, grad_fn=<SelectBackward0>) tensor(30.0000)
+tensor(37.7719, grad_fn=<SelectBackward0>) tensor(34.9877)
+tensor(5.1687, grad_fn=<SelectBackward0>) tensor(36.0956)
+tensor(45.2981, grad_fn=<SelectBackward0>) tensor(41.5027)
+0
+tensor(48.5881, grad_fn=<SelectBackward0>) tensor(32.1761)
+tensor(35.1858, grad_fn=<SelectBackward0>) tensor(35.8870)
+tensor(21.8655, grad_fn=<SelectBackward0>) tensor(32.2818)
+tensor(6.0109, grad_fn=<SelectBackward0>) tensor(30.8344)
+0
+tensor(53.5524, grad_fn=<SelectBackward0>) tensor(31.8616)
+tensor(10.2831, grad_fn=<SelectBackward0>) tensor(34.4088)
+tensor(10.2846, grad_fn=<SelectBackward0>) tensor(34.1198)
+tensor(31.3225, grad_fn=<SelectBackward0>) tensor(31.8315)
+0
+tensor(33.2297, grad_fn=<SelectBackward0>) tensor(38.5338)
+tensor(50.6250, grad_fn=<SelectBackward0>) tensor(30.9880)
+tensor(10.7315, grad_fn=<SelectBackward0>) tensor(33.3119)
+tensor(22.6313, grad_fn=<SelectBackward0>) tensor(40.4877)
+0
+tensor(54.6351, grad_fn=<SelectBackward0>) tensor(38.8994)
+tensor(24.0778, grad_fn=<SelectBackward0>) tensor(34.1375)
+tensor(24.0779, grad_fn=<SelectBackward0>) tensor(33.8628)
+tensor(24.0784, grad_fn=<SelectBackward0>) tensor(29.2504)
+0
+tensor(49.4051, grad_fn=<SelectBackward0>) tensor(30.9375)
+tensor(19.6162, grad_fn=<SelectBackward0>) tensor(40.3230)
+tensor(34.9798, grad_fn=<SelectBackward0>) tensor(30.1573)
+tensor(10.3356, grad_fn=<SelectBackward0>) tensor(39.8641)
+0
+tensor(21.8231, grad_fn=<SelectBackward0>) tensor(38.2227)
+tensor(43.6763, grad_fn=<SelectBackward0>) tensor(32.3948)
+tensor(35.7971, grad_fn=<SelectBackward0>) tensor(30.4961)
+tensor(22.8991, grad_fn=<SelectBackward0>) tensor(33.0922)
+0
+tensor(39.2543, grad_fn=<SelectBackward0>) tensor(35.3889)
+tensor(36.6426, grad_fn=<SelectBackward0>) tensor(32.8808)
+tensor(29.7964, grad_fn=<SelectBackward0>) tensor(35.2407)
+tensor(23.1798, grad_fn=<SelectBackward0>) tensor(33.4911)
+0
+tensor(27.6235, grad_fn=<SelectBackward0>) tensor(31.1897)
+tensor(55.7447, grad_fn=<SelectBackward0>) tensor(33.5606)
+tensor(13.0417, grad_fn=<SelectBackward0>) tensor(30.4868)
+tensor(13.0183, grad_fn=<SelectBackward0>) tensor(35.4057)
+0
+tensor(16.2305, grad_fn=<SelectBackward0>) tensor(36.9530)
+tensor(47.1637, grad_fn=<SelectBackward0>) tensor(32.9503)
+tensor(41.3019, grad_fn=<SelectBackward0>) tensor(30.1383)
+tensor(5.1235, grad_fn=<SelectBackward0>) tensor(33.6390)
+0
+tensor(33.4462, grad_fn=<SelectBackward0>) tensor(37.1835)
+tensor(37.5486, grad_fn=<SelectBackward0>) tensor(31.8191)
+tensor(33.4527, grad_fn=<SelectBackward0>) tensor(29.9998)
+tensor(20.9654, grad_fn=<SelectBackward0>) tensor(32.4645)
+0
+tensor(13.9802, grad_fn=<SelectBackward0>) tensor(33.3159)
+tensor(35.7068, grad_fn=<SelectBackward0>) tensor(35.8741)
+tensor(7.4557, grad_fn=<SelectBackward0>) tensor(35.3474)
+tensor(50.2021, grad_fn=<SelectBackward0>) tensor(34.8689)
+0
+tensor(47.5508, grad_fn=<SelectBackward0>) tensor(32.0403)
+tensor(27.2016, grad_fn=<SelectBackward0>) tensor(35.1027)
+tensor(27.7866, grad_fn=<SelectBackward0>) tensor(32.1343)
+tensor(15.8957, grad_fn=<SelectBackward0>) tensor(29.9768)
+0
+tensor(8.6447, grad_fn=<SelectBackward0>) tensor(34.2029)
+tensor(46.2514, grad_fn=<SelectBackward0>) tensor(35.3852)
+tensor(44.0741, grad_fn=<SelectBackward0>) tensor(38.3053)
+tensor(4.6324, grad_fn=<SelectBackward0>) tensor(31.2421)
+0
+tensor(49.8713, grad_fn=<SelectBackward0>) tensor(32.2848)
+tensor(7.2064, grad_fn=<SelectBackward0>) tensor(33.9463)
+tensor(34.4442, grad_fn=<SelectBackward0>) tensor(38.3686)
+tensor(7.2882, grad_fn=<SelectBackward0>) tensor(33.0164)
+0
+tensor(48.2137, grad_fn=<SelectBackward0>) tensor(31.8426)
+tensor(15.9942, grad_fn=<SelectBackward0>) tensor(29.6467)
+tensor(27.7045, grad_fn=<SelectBackward0>) tensor(36.7401)
+tensor(27.6984, grad_fn=<SelectBackward0>) tensor(32.3189)
+0
+tensor(44.2445, grad_fn=<SelectBackward0>) tensor(39.1785)
+tensor(18.9984, grad_fn=<SelectBackward0>) tensor(31.6627)
+tensor(39.6453, grad_fn=<SelectBackward0>) tensor(34.5984)
+tensor(24.4770, grad_fn=<SelectBackward0>) tensor(33.4413)
+0
+tensor(16.9751, grad_fn=<SelectBackward0>) tensor(30.1558)
+tensor(32.2275, grad_fn=<SelectBackward0>) tensor(30.7910)
+tensor(54.1640, grad_fn=<SelectBackward0>) tensor(38.6038)
+tensor(4.3497, grad_fn=<SelectBackward0>) tensor(36.2801)
+0
+tensor(28.5675, grad_fn=<SelectBackward0>) tensor(31.4861)
+tensor(50.4220, grad_fn=<SelectBackward0>) tensor(33.5143)
+tensor(16.8329, grad_fn=<SelectBackward0>) tensor(31.7468)
+tensor(28.5666, grad_fn=<SelectBackward0>) tensor(34.3843)
+0
+tensor(21.1531, grad_fn=<SelectBackward0>) tensor(36.4707)
+tensor(55.3410, grad_fn=<SelectBackward0>) tensor(33.3439)
+tensor(21.1864, grad_fn=<SelectBackward0>) tensor(37.9991)
+tensor(11.2493, grad_fn=<SelectBackward0>) tensor(34.9390)
+0
+tensor(49.6815, grad_fn=<SelectBackward0>) tensor(38.4368)
+tensor(14.3658, grad_fn=<SelectBackward0>) tensor(39.9047)
+tensor(37.3637, grad_fn=<SelectBackward0>) tensor(34.9052)
+tensor(14.3653, grad_fn=<SelectBackward0>) tensor(30.2797)
+0
+tensor(43.6196, grad_fn=<SelectBackward0>) tensor(41.8743)
+tensor(41.1827, grad_fn=<SelectBackward0>) tensor(40.7649)
+tensor(10.6175, grad_fn=<SelectBackward0>) tensor(30.0004)
+tensor(21.9893, grad_fn=<SelectBackward0>) tensor(34.8600)
+0
+tensor(4.6440, grad_fn=<SelectBackward0>) tensor(30.5132)
+tensor(42.0513, grad_fn=<SelectBackward0>) tensor(30.6703)
+tensor(47.8765, grad_fn=<SelectBackward0>) tensor(31.6677)
+tensor(4.6445, grad_fn=<SelectBackward0>) tensor(29.9740)
+0
+tensor(13.3441, grad_fn=<SelectBackward0>) tensor(41.1890)
+tensor(55.0551, grad_fn=<SelectBackward0>) tensor(30.3774)
+tensor(26.4431, grad_fn=<SelectBackward0>) tensor(30.9044)
+tensor(13.6085, grad_fn=<SelectBackward0>) tensor(34.3281)
+0
+tensor(38.5850, grad_fn=<SelectBackward0>) tensor(32.9346)
+tensor(44.0859, grad_fn=<SelectBackward0>) tensor(31.7482)
+tensor(25.4767, grad_fn=<SelectBackward0>) tensor(36.5361)
+tensor(11.1811, grad_fn=<SelectBackward0>) tensor(34.1336)
+0
+tensor(40.2185, grad_fn=<SelectBackward0>) tensor(33.2735)
+tensor(13.8173, grad_fn=<SelectBackward0>) tensor(37.4676)
+tensor(46.4958, grad_fn=<SelectBackward0>) tensor(32.9348)
+tensor(11.3837, grad_fn=<SelectBackward0>) tensor(33.4443)
+0
+tensor(45.2299, grad_fn=<SelectBackward0>) tensor(29.1326)
+tensor(40.6136, grad_fn=<SelectBackward0>) tensor(33.2362)
+tensor(12.8580, grad_fn=<SelectBackward0>) tensor(31.2139)
+tensor(17.2039, grad_fn=<SelectBackward0>) tensor(30.4850)
+0
+tensor(29.7552, grad_fn=<SelectBackward0>) tensor(32.0976)
+tensor(16.1430, grad_fn=<SelectBackward0>) tensor(32.0390)
+tensor(36.4403, grad_fn=<SelectBackward0>) tensor(32.2807)
+tensor(41.5167, grad_fn=<SelectBackward0>) tensor(34.7762)
+0
+tensor(9.5671, grad_fn=<SelectBackward0>) tensor(39.7607)
+tensor(31.3437, grad_fn=<SelectBackward0>) tensor(39.6866)
+tensor(21.8252, grad_fn=<SelectBackward0>) tensor(30.0002)
+tensor(53.1138, grad_fn=<SelectBackward0>) tensor(39.8255)
+0
+tensor(20.0437, grad_fn=<SelectBackward0>) tensor(31.7485)
+tensor(55.4035, grad_fn=<SelectBackward0>) tensor(34.3318)
+tensor(28.5652, grad_fn=<SelectBackward0>) tensor(29.8024)
+tensor(4.9251, grad_fn=<SelectBackward0>) tensor(34.0485)
+0
+tensor(16.3968, grad_fn=<SelectBackward0>) tensor(36.7162)
+tensor(16.4038, grad_fn=<SelectBackward0>) tensor(30.0876)
+tensor(16.3397, grad_fn=<SelectBackward0>) tensor(34.1477)
+tensor(47.9883, grad_fn=<SelectBackward0>) tensor(34.2542)
+0
+tensor(47.1538, grad_fn=<SelectBackward0>) tensor(30.9755)
+tensor(4.1214, grad_fn=<SelectBackward0>) tensor(34.1354)
+tensor(21.4049, grad_fn=<SelectBackward0>) tensor(33.8169)
+tensor(37.5982, grad_fn=<SelectBackward0>) tensor(36.2618)
+0
+tensor(43.8316, grad_fn=<SelectBackward0>) tensor(32.3181)
+tensor(20.1959, grad_fn=<SelectBackward0>) tensor(34.7795)
+tensor(12.3959, grad_fn=<SelectBackward0>) tensor(33.4913)
+tensor(42.1550, grad_fn=<SelectBackward0>) tensor(34.6217)
+0
+tensor(48.5648, grad_fn=<SelectBackward0>) tensor(34.0707)
+tensor(36.4843, grad_fn=<SelectBackward0>) tensor(31.1975)
+tensor(11.7554, grad_fn=<SelectBackward0>) tensor(37.4350)
+tensor(15.3457, grad_fn=<SelectBackward0>) tensor(34.1445)
+0
+tensor(9.3788, grad_fn=<SelectBackward0>) tensor(40.4511)
+tensor(53.9847, grad_fn=<SelectBackward0>) tensor(30.9614)
+tensor(33.3131, grad_fn=<SelectBackward0>) tensor(30.9373)
+tensor(9.3784, grad_fn=<SelectBackward0>) tensor(37.4180)
+0
+tensor(40.2757, grad_fn=<SelectBackward0>) tensor(30.4842)
+tensor(8.6094, grad_fn=<SelectBackward0>) tensor(39.8564)
+tensor(19.6590, grad_fn=<SelectBackward0>) tensor(34.8689)
+tensor(43.2769, grad_fn=<SelectBackward0>) tensor(31.5836)
+0
+tensor(9.8693, grad_fn=<SelectBackward0>) tensor(35.5194)
+tensor(31.8781, grad_fn=<SelectBackward0>) tensor(36.7708)
+tensor(9.8694, grad_fn=<SelectBackward0>) tensor(35.5194)
+tensor(52.9164, grad_fn=<SelectBackward0>) tensor(32.2808)
+0
+tensor(19.6464, grad_fn=<SelectBackward0>) tensor(31.1900)
+tensor(36.7012, grad_fn=<SelectBackward0>) tensor(34.6875)
+tensor(46.5462, grad_fn=<SelectBackward0>) tensor(31.9389)
+tensor(19.1269, grad_fn=<SelectBackward0>) tensor(36.1865)
+0
+tensor(45.7920, grad_fn=<SelectBackward0>) tensor(39.5211)
+tensor(21.7520, grad_fn=<SelectBackward0>) tensor(36.5351)
+tensor(18.7577, grad_fn=<SelectBackward0>) tensor(31.7502)
+tensor(38.6676, grad_fn=<SelectBackward0>) tensor(32.4532)
+0
+tensor(32.4953, grad_fn=<SelectBackward0>) tensor(31.4861)
+tensor(17.0655, grad_fn=<SelectBackward0>) tensor(33.5610)
+tensor(4.3900, grad_fn=<SelectBackward0>) tensor(30.9338)
+tensor(54.7003, grad_fn=<SelectBackward0>) tensor(35.3975)
+0
+tensor(18.4749, grad_fn=<SelectBackward0>) tensor(31.4339)
+tensor(18.4761, grad_fn=<SelectBackward0>) tensor(29.8036)
+tensor(58.1673, grad_fn=<SelectBackward0>) tensor(37.4524)
+tensor(18.4767, grad_fn=<SelectBackward0>) tensor(37.3757)
+0
+tensor(46.8433, grad_fn=<SelectBackward0>) tensor(38.8992)
+tensor(41.1239, grad_fn=<SelectBackward0>) tensor(41.6182)
+tensor(25.7037, grad_fn=<SelectBackward0>) tensor(35.5291)
+tensor(9.8682, grad_fn=<SelectBackward0>) tensor(35.4005)
+0
+tensor(43.1483, grad_fn=<SelectBackward0>) tensor(30.1383)
+tensor(20.6832, grad_fn=<SelectBackward0>) tensor(36.3533)
+tensor(12.8086, grad_fn=<SelectBackward0>) tensor(35.0184)
+tensor(42.0067, grad_fn=<SelectBackward0>) tensor(31.7661)
+0
+tensor(16.3774, grad_fn=<SelectBackward0>) tensor(34.4172)
+tensor(16.3852, grad_fn=<SelectBackward0>) tensor(36.7423)
+tensor(47.9909, grad_fn=<SelectBackward0>) tensor(38.2289)
+tensor(16.3797, grad_fn=<SelectBackward0>) tensor(30.0877)
+0
+tensor(36.1250, grad_fn=<SelectBackward0>) tensor(33.8629)
+tensor(15.2677, grad_fn=<SelectBackward0>) tensor(30.2402)
+tensor(47.9357, grad_fn=<SelectBackward0>) tensor(35.6076)
+tensor(11.6132, grad_fn=<SelectBackward0>) tensor(33.6286)
+0
+tensor(12.2491, grad_fn=<SelectBackward0>) tensor(33.2304)
+tensor(40.9748, grad_fn=<SelectBackward0>) tensor(37.5109)
+tensor(23.5432, grad_fn=<SelectBackward0>) tensor(32.3180)
+tensor(43.2133, grad_fn=<SelectBackward0>) tensor(31.6431)
+0
+tensor(4.3883, grad_fn=<SelectBackward0>) tensor(40.9445)
+tensor(4.4298, grad_fn=<SelectBackward0>) tensor(38.2230)
+tensor(4.2758, grad_fn=<SelectBackward0>) tensor(30.9828)
+tensor(4.3883, grad_fn=<SelectBackward0>) tensor(41.0576)
+0
+tensor(4.0560, grad_fn=<SelectBackward0>) tensor(32.0606)
+tensor(4.0542, grad_fn=<SelectBackward0>) tensor(29.2393)
+tensor(39.9891, grad_fn=<SelectBackward0>) tensor(40.5683)
+tensor(47.9058, grad_fn=<SelectBackward0>) tensor(36.0945)
+0
+tensor(33.4360, grad_fn=<SelectBackward0>) tensor(32.6278)
+tensor(33.5989, grad_fn=<SelectBackward0>) tensor(36.6125)
+tensor(33.5998, grad_fn=<SelectBackward0>) tensor(37.4530)
+tensor(25.6121, grad_fn=<SelectBackward0>) tensor(32.8419)
+0
+tensor(12.4770, grad_fn=<SelectBackward0>) tensor(35.3866)
+tensor(20.4258, grad_fn=<SelectBackward0>) tensor(33.6388)
+tensor(43.2183, grad_fn=<SelectBackward0>) tensor(30.7377)
+tensor(45.5076, grad_fn=<SelectBackward0>) tensor(35.0839)
+0
+tensor(26.9461, grad_fn=<SelectBackward0>) tensor(29.5775)
+tensor(29.7018, grad_fn=<SelectBackward0>) tensor(36.7400)
+tensor(29.7022, grad_fn=<SelectBackward0>) tensor(30.2153)
+tensor(41.3203, grad_fn=<SelectBackward0>) tensor(34.9878)
+0
+tensor(29.5277, grad_fn=<SelectBackward0>) tensor(33.2263)
+tensor(25.0328, grad_fn=<SelectBackward0>) tensor(36.4613)
+tensor(50.8548, grad_fn=<SelectBackward0>) tensor(36.1380)
+tensor(13.6582, grad_fn=<SelectBackward0>) tensor(35.7969)
+0
+tensor(5.7071, grad_fn=<SelectBackward0>) tensor(29.2490)
+tensor(30.3638, grad_fn=<SelectBackward0>) tensor(33.7542)
+tensor(50.8271, grad_fn=<SelectBackward0>) tensor(30.7378)
+tensor(30.3629, grad_fn=<SelectBackward0>) tensor(38.0304)
+0
+tensor(38.4842, grad_fn=<SelectBackward0>) tensor(40.3220)
+tensor(49.1094, grad_fn=<SelectBackward0>) tensor(37.6017)
+tensor(13.5746, grad_fn=<SelectBackward0>) tensor(38.5937)
+tensor(13.5744, grad_fn=<SelectBackward0>) tensor(36.1757)
+0
+tensor(30.6047, grad_fn=<SelectBackward0>) tensor(34.6710)
+tensor(27.6827, grad_fn=<SelectBackward0>) tensor(33.4909)
+tensor(27.7006, grad_fn=<SelectBackward0>) tensor(39.7559)
+tensor(30.6110, grad_fn=<SelectBackward0>) tensor(32.1720)
+0
+tensor(5.2476, grad_fn=<SelectBackward0>) tensor(31.5784)
+tensor(13.9316, grad_fn=<SelectBackward0>) tensor(33.4022)
+tensor(35.1907, grad_fn=<SelectBackward0>) tensor(30.9793)
+tensor(51.6705, grad_fn=<SelectBackward0>) tensor(40.7725)
+0
+tensor(47.5722, grad_fn=<SelectBackward0>) tensor(32.7656)
+tensor(22.2334, grad_fn=<SelectBackward0>) tensor(39.8665)
+tensor(35.1906, grad_fn=<SelectBackward0>) tensor(30.0002)
+tensor(19.8531, grad_fn=<SelectBackward0>) tensor(34.2548)
+0
+tensor(36.5360, grad_fn=<SelectBackward0>) tensor(37.5066)
+tensor(35.9758, grad_fn=<SelectBackward0>) tensor(32.4308)
+tensor(25.2367, grad_fn=<SelectBackward0>) tensor(30.7917)
+tensor(35.9752, grad_fn=<SelectBackward0>) tensor(29.9768)
+0
+tensor(42.4477, grad_fn=<SelectBackward0>) tensor(40.0100)
+tensor(14.8913, grad_fn=<SelectBackward0>) tensor(32.6175)
+tensor(28.0802, grad_fn=<SelectBackward0>) tensor(39.9142)
+tensor(38.2594, grad_fn=<SelectBackward0>) tensor(33.2705)
+0
+tensor(4.7776, grad_fn=<SelectBackward0>) tensor(29.9998)
+tensor(4.7232, grad_fn=<SelectBackward0>) tensor(39.3430)
+tensor(43.4588, grad_fn=<SelectBackward0>) tensor(36.8948)
+tensor(40.8644, grad_fn=<SelectBackward0>) tensor(29.6401)
+0
+tensor(51.5582, grad_fn=<SelectBackward0>) tensor(35.8859)
+tensor(24.8928, grad_fn=<SelectBackward0>) tensor(30.2134)
+tensor(24.9120, grad_fn=<SelectBackward0>) tensor(35.4868)
+tensor(5.3132, grad_fn=<SelectBackward0>) tensor(40.4874)
+0
+tensor(40.6238, grad_fn=<SelectBackward0>) tensor(38.3999)
+tensor(17.1587, grad_fn=<SelectBackward0>) tensor(40.0456)
+tensor(46.0456, grad_fn=<SelectBackward0>) tensor(32.0978)
+tensor(13.0255, grad_fn=<SelectBackward0>) tensor(32.8307)
+0
+tensor(48.2191, grad_fn=<SelectBackward0>) tensor(33.2494)
+tensor(18.8608, grad_fn=<SelectBackward0>) tensor(34.9874)
+tensor(36.6814, grad_fn=<SelectBackward0>) tensor(37.0238)
+tensor(7.3961, grad_fn=<SelectBackward0>) tensor(40.0889)
+0
+tensor(5.3353, grad_fn=<SelectBackward0>) tensor(39.9047)
+tensor(48.6330, grad_fn=<SelectBackward0>) tensor(32.2228)
+tensor(28.6932, grad_fn=<SelectBackward0>) tensor(38.2230)
+tensor(28.6931, grad_fn=<SelectBackward0>) tensor(38.0511)
+0
+tensor(49.9261, grad_fn=<SelectBackward0>) tensor(37.8679)
+tensor(7.4788, grad_fn=<SelectBackward0>) tensor(30.6789)
+tensor(7.1454, grad_fn=<SelectBackward0>) tensor(40.3412)
+tensor(34.3660, grad_fn=<SelectBackward0>) tensor(41.0417)
+0
+tensor(40.3437, grad_fn=<SelectBackward0>) tensor(32.7396)
+tensor(18.2873, grad_fn=<SelectBackward0>) 
