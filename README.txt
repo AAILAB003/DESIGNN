@@ -47,12 +47,11 @@ v.      Fortran 90
 	(e) TNETWORKDESIGNN.py
 
 
-#---> 6. To run the prediction for r and theta properties : 
-	 python3.x Training/R-Property/prediction-model-DESIGNN-R.py
-	 python3.x Training/R-Property/prediction-model-DESIGNN-T.py
-
+#---> 6. To run the prediction for r and theta properties run the fortran executable [Prediction] as ./FinalPrediction.out
+	 
           where, Prediction folder contains structure of Mg15, with the relevant files required for carrying out the prediction of the property.
           The predicted values can be stored in files "predicted_r" and "predicted_t" 
+#--->7. The final structure is obtained as  : ESP_Framework_Predicted.xyz
 
 
 
